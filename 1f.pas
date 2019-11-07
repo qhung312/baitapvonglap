@@ -1,6 +1,6 @@
 program Bai1f;
 
-var n, i, p: integer;
+var n, i, p: longint;
 
 begin
     readln(n);

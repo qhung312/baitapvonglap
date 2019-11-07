@@ -1,7 +1,7 @@
 // Nhap vao n, tim n!
 program Bai1e;
 
-var n, i, p: integer;
+var n, i, p: longint;
 
 begin
     readln(n);
