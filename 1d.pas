@@ -9,9 +9,9 @@ begin
     s := n;
     i := n;
 
-    while (i >= 1) do
+    while (i >= 2) do
     begin
-        s := i + 1/s;
+        s := (i - 1) + 1/s;
         i := i - 1;
     end;
 
